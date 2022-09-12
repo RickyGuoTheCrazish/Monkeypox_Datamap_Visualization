@@ -1,0 +1,4 @@
+rank,country_code,country,city_code,city,lat,lng,population
+1,1,Australia,10001,Sydney,-33.5211,151.1229,50
+2,2,India,20001,Delhi,28.6667,77.2167,100
+3,3,Spain,30001,Madrid, 40.4167,-3.7037,4900
