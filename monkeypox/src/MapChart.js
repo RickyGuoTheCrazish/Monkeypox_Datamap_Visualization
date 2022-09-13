@@ -11,39 +11,26 @@ import { scaleQuantile,scaleLinear,scaleSqrt,scaleLog } from "d3-scale";
 import sortBy from "lodash/sortBy";
 
 const geoUrl ="/countries.json";
+const countryData = "/MPX-Country-Data.csv";
 
 const MapChart = ({ setTooltipContent }) => {
   const [data, setData] = useState([]);
   const [maxValue, setMaxValue] = useState(0);
 
-  // useEffect(() => {
-  //   csv("/data.csv").then((cities) => {
-  //     const sortedCities = sortBy(cities, (o) => -o.population);
-  //     setMaxValue(sortedCities[0].population);
-  //     setData(sortedCities);
-  //   });
-  // }, []);
-
   useEffect(() => {
-    // https://www.bls.gov/lau/
-    csv("/data.csv").then((countries) => {
-      setData(countries);
+    csv("/MPX-Country-Data.csv").then((country) => {
+      const sortedCountries = sortBy(country, (o) => -o.Cases);
+      setMaxValue(sortedCountries[0].case);
+      setData(sortedCountries);
     });
   }, []);
 
- // const colorScale = scaleQuantile()
- //  .domain([1,10])
- //  .range([
- //    "#ffedea",
- //    "#ffcec5",
- //    "#ffad9f",
- //    "#ff8a75",
- //    "#ff5533",
- //    "#e2492d",
- //    "#be3d26",
- //    "#9a311f",
- //    "#782618"
- //  ]);
+  // useEffect(() => {
+  //   // https://www.bls.gov/lau/
+  //   csv("/data.csv").then((countries) => {
+  //     setData(countries);
+  //   });
+  // }, []);
 
   const colorScale = scaleQuantile()
     .domain([0, 10000]) 
@@ -116,6 +103,16 @@ const MapChart = ({ setTooltipContent }) => {
       "#821200",
       "#7a1100",
       "#721000",
+      "rgba(106,15,0,0.9)",
+      "rgba(106,15,0,0.91)",
+      "rgba(106,15,0,0.92)",
+      "rgba(106,15,0,0.93)",
+      "rgba(106,15,0,0.94)",
+      "rgba(106,15,0,0.95)",
+      "rgba(106,15,0,0.96)",
+      "rgba(106,15,0,0.97)",
+      "rgba(106,15,0,0.98)",
+      "rgba(106,15,0,0.99)",
       "#6a0f00",
       "#610d00",
       "#590c00",
@@ -127,6 +124,16 @@ const MapChart = ({ setTooltipContent }) => {
       "#280500",
       "#200400",
       "#180300",
+      "rgba(16,2,0,0.9)",
+      "rgba(16,2,0,0.91)",
+      "rgba(16,2,0,0.92)",
+      "rgba(16,2,0,0.93)",
+      "rgba(16,2,0,0.94)",
+      "rgba(16,2,0,0.95)",
+      "rgba(16,2,0,0.96)",
+      "rgba(16,2,0,0.97)",
+      "rgba(16,2,0,0.98)",
+      "rgba(16,2,0,0.99)",
       "#100200"
 
       ])
@@ -134,21 +141,32 @@ const MapChart = ({ setTooltipContent }) => {
   return (
     <div data-tip="">
       <ComposableMap projectionConfig={{ rotate: [-10, 0, 0] }}>
-        <ZoomableGroup center={[33, 33]} zoom={1}>
+        <ZoomableGroup center={[33, 33]} zoom={1} >
+          
           <Geographies geography={geoUrl}>
             {({ geographies }) =>(
-
-
+              data.map(({ Country, Cases, Deaths, Category,AsOf }) => {
+                
+                  geographies.map((geo) =>  {
+                    if(geo.properties.name == Country){
+                      geo.properties.case = Cases;
+                    }
+                    
+                  })
+                
+              }),
               geographies.map((geo) => 
 
                 <Geography key={geo.rsmKey} geography={geo} 
-                  
-
                   onMouseEnter={() => {
-                    
-                      setTooltipContent(`${geo.properties.name + " "+geo.properties.case}`);
+                      if(`${geo.properties.case}` == "undefined"){
+                        geo.properties.case = 0;
+                        setTooltipContent(`${geo.properties.name + " "+ 0}`);
+                      }
+                      else{
+                        setTooltipContent(`${geo.properties.name + " "+geo.properties.case}`);
+                      }
 
-                    
                   }}
                   onMouseLeave={() => {
                     setTooltipContent("");
@@ -172,6 +190,7 @@ const MapChart = ({ setTooltipContent }) => {
                 />
               ))
 
+              
               
             }
           </Geographies>
