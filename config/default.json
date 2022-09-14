@@ -1,8 +1,7 @@
 // default.json
 
 {
-  "mongoURI":
-    "mongodb+srv://monkeypoxdata:dataformonkeypox@monkeypoxdata.zccrcxw.mongodb.net/?retryWrites=true&w=majority"
+  
 }
     // "mongodb+srv://mern123:<password>@mernatoz-9kdpd.mongodb.net/test?retryWrites=true&w=majority"
 
