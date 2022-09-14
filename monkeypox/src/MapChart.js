@@ -1,18 +1,16 @@
-import React, { useEffect, useState, useMemo } from "react";
+import React, { useEffect, useState } from "react";
 import {
   ComposableMap,
   Geographies,
   Geography,
-  ZoomableGroup,
-  Marker
+  ZoomableGroup
 } from "react-simple-maps";
 import { csv } from "d3-fetch";
-import { scaleQuantile,scaleLinear,scaleSqrt,scaleLog } from "d3-scale";
+import { scaleQuantile } from "d3-scale";
 import sortBy from "lodash/sortBy";
 
 
 const geoUrl ="/countries.json";
-const countryData = "/MPX-Country-Data.csv";
 
 const MapChart = ({ setTooltipContent }) => {
   const [data, setData] = useState([]);
@@ -25,13 +23,6 @@ const MapChart = ({ setTooltipContent }) => {
       setData(sortedCountries);
     });
   }, []);
-
-  // useEffect(() => {
-  //   // https://www.bls.gov/lau/
-  //   csv("/data.csv").then((countries) => {
-  //     setData(countries);
-  //   });
-  // }, []);
 
   const colorScale = scaleQuantile()
     .domain([0, 10000]) 
@@ -149,7 +140,7 @@ const MapChart = ({ setTooltipContent }) => {
               data.map(({ Country, Cases, Deaths, Category,AsOf }) => {
                 
                   geographies.map((geo) =>  {
-                    if(geo.properties.name == Country){
+                    if(geo.properties.name === Country){
                       geo.properties.case = Cases;
                     }
                     
@@ -160,7 +151,7 @@ const MapChart = ({ setTooltipContent }) => {
 
                 <Geography key={geo.rsmKey} geography={geo} 
                   onMouseEnter={() => {
-                      if(`${geo.properties.case}` == "undefined"){
+                      if(`${geo.properties.case}` === "undefined"){
                         geo.properties.case = 0;
                         setTooltipContent(`${geo.properties.name + " "+ 0}`);
                       }
