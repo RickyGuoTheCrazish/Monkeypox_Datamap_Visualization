@@ -10,6 +10,7 @@ import { csv } from "d3-fetch";
 import { scaleQuantile,scaleLinear,scaleSqrt,scaleLog } from "d3-scale";
 import sortBy from "lodash/sortBy";
 
+
 const geoUrl ="/countries.json";
 const countryData = "/MPX-Country-Data.csv";
 
@@ -140,8 +141,8 @@ const MapChart = ({ setTooltipContent }) => {
 
   return (
     <div data-tip="">
-      <ComposableMap projectionConfig={{ rotate: [-10, 0, 0] }}>
-        <ZoomableGroup center={[33, 33]} zoom={1} >
+      <ComposableMap projectionConfig={{ rotate: [10, 0, 0] , center: [0,0]}}>
+        <ZoomableGroup center={[0,0]} zoom={1} >
           
           <Geographies geography={geoUrl}>
             {({ geographies }) =>(
@@ -194,12 +195,7 @@ const MapChart = ({ setTooltipContent }) => {
               
             }
           </Geographies>
-
-          
-           
-         
-          
-          
+      
         </ZoomableGroup>
       </ComposableMap>
     </div>
