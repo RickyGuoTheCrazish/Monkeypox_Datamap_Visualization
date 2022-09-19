@@ -13,8 +13,8 @@ ps: Grey color indicates insufficient data were gathered or less than 100 confir
 
 Data used in this app are according to www.cdc.gov
 
-Screenshot of data on 2022/09/16:
-[![0916.jpg](https://i.postimg.cc/J7sKyBHx/0915.jpg)](https://postimg.cc/yWz0txP3)
+Screenshot of data on 2022/09/18:
+[![okk.jpg](https://i.postimg.cc/JnnDN9wP/okk.jpg)](https://postimg.cc/DW9wFpwX)
 
 Author: Ricky Guo
 License: Apache2.0(free for any internet use)
