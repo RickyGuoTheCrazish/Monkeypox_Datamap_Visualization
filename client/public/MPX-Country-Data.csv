@@ -1,105 +1,107 @@
 Country,Cases,Deaths,Category,AsOf
-Belgium,744,1,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Brazil,6448,2,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Central African Republic,8,2,Has historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Cuba,2,1,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Ecuador,68,1,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Ghana,84,4,Has historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-India,12,1,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Nigeria,277,4,Has historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Spain,6947,2,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Sudan,6,1,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-United States,23116,1,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Andorra,4,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Argentina,221,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Aruba,3,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Australia,132,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Austria,300,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Bahamas,2,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Barbados,1,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Benin,3,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Bermuda,1,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Bolivia,129,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Bosnia and Herzegovina,3,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Bulgaria,6,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Cameroon,7,0,Has historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Canada,1363,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Chile,686,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Colombia,1260,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Costa Rica,4,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Croatia,27,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Curaçao,1,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Cyprus,5,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Czechia,62,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Democratic Republic of the Congo,195,0,Has historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Denmark,183,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Dominican Republic,31,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Egypt,1,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-El Salvador,2,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Estonia,11,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Finland,33,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-France,3898,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Georgia,2,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Germany,3556,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Gibraltar,6,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Greece,67,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Greenland,2,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Guadeloupe,1,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Guatemala,12,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Guyana,2,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Honduras,4,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Hong Kong,1,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Hungary,75,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Iceland,12,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Indonesia,1,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Iran,1,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Ireland,173,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Israel,246,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Italy,828,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Jamaica,12,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Japan,4,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Jordan,1,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Latvia,4,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Lebanon,11,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Liberia,3,0,Has historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Lithuania,5,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Luxembourg,55,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Malta,33,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Martinique,1,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Mexico,1050,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Moldova,2,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Monaco,3,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Montenegro,2,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Morocco,3,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Netherlands,1209,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-New Caledonia,1,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-New Zealand,5,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Norway,87,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Panama,12,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Paraguay,1,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Peru,2015,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Philippines,4,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Poland,160,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Portugal,898,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Qatar,4,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Republic of the Congo,5,0,Has historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Romania,37,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Russia,2,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Saint Martin,1,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Saudi Arabia,8,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Serbia,31,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Singapore,16,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Slovakia,14,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Slovenia,46,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-South Africa,5,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-South Korea,2,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Sweden,177,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Switzerland,490,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Taiwan,3,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Thailand,7,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Turkey,1,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Ukraine,1,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-United Arab Emirates,16,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-United Kingdom,3552,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Uruguay,5,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
-Venezuela,3,0,Has not historically reported monkeypox,Data as of 16 Sep 2022 5:00 PM EDT
+Belgium,757,1,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Brazil,7019,2,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Central African Republic,8,2,Has historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Cuba,2,1,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Ecuador,93,1,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Ghana,84,4,Has historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+India,12,1,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Nigeria,277,4,Has historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Spain,7083,2,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Sudan,6,1,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+United States,24363,1,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Andorra,4,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Argentina,265,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Aruba,3,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Australia,132,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Austria,304,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Bahamas,2,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Bahrain,1,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Barbados,1,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Benin,3,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Bermuda,1,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Bolivia,149,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Bosnia and Herzegovina,3,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Bulgaria,6,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Cameroon,7,0,Has historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Canada,1363,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Chile,728,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+China,1,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Colombia,1653,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Costa Rica,4,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Croatia,29,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Curaçao,2,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Cyprus,5,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Czechia,66,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Democratic Republic of the Congo,195,0,Has historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Denmark,183,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Dominican Republic,31,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Egypt,1,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+El Salvador,4,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Estonia,11,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Finland,33,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+France,3898,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Georgia,2,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Germany,3570,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Gibraltar,6,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Greece,69,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Greenland,2,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Guadeloupe,1,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Guatemala,13,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Guyana,2,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Honduras,4,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Hong Kong,1,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Hungary,77,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Iceland,12,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Indonesia,1,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Iran,1,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Ireland,178,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Israel,250,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Italy,837,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Jamaica,13,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Japan,4,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Jordan,1,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Latvia,5,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Lebanon,11,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Liberia,3,0,Has historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Lithuania,5,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Luxembourg,55,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Malta,33,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Martinique,1,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Mexico,1367,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Moldova,2,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Monaco,3,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Montenegro,2,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Morocco,3,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Netherlands,1221,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+New Caledonia,1,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+New Zealand,5,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Norway,89,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Panama,13,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Paraguay,1,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Peru,2091,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Philippines,4,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Poland,173,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Portugal,908,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Qatar,5,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Republic of the Congo,5,0,Has historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Romania,39,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Russia,2,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Saint Martin,1,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Saudi Arabia,8,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Serbia,31,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Singapore,19,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Slovakia,14,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Slovenia,46,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+South Africa,5,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+South Korea,2,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Sweden,186,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Switzerland,502,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Taiwan,3,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Thailand,8,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Turkey,1,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Ukraine,2,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+United Arab Emirates,16,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+United Kingdom,3552,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Uruguay,6,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
+Venezuela,5,0,Has not historically reported monkeypox,Data as of 21 Sep 2022 5:00 PM EDT
